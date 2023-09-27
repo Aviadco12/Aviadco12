@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Aviad
-- I’m interested in learning app-development, (learning a couple of months)
-- i'd switched from java to kotlin, 
-- if you also learning app-development in kotlin, and you want to get/share info, contact me.
+ I’m learning native android app-development.
+if you have some insights about my work, connect me :)
 - avicohen12351@gmail.com 
 - Thank's u
 
